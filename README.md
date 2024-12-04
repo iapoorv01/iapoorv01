@@ -1,6 +1,81 @@
+ <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVuNmFyY3Q2YXdpMGNxMTNjdzlwOTVwaWUyOTJ0eDE3Y3l2c2lwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+ 
+# Hey There, This is Apoorv Gupta!👋
+
+👨‍💻 A passionate **Computer Science** student with a focus on **AI** and **Data Engineering** at **Lovely Professional University**.
+
+---
+
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVuNmFyY3Q2YXdpMGNxMTNjdzlwOTVwaWUyOTJ0eDE3Y3l2c2lwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
-Hello! I’m Apoorv Gupta, a first-year BTech student specializing in Computer Science with a focus on AI and Data Engineering at Lovely Professional University. I am deeply passionate about technology and innovation, particularly in developing solutions that address real-world challenges.<br><br>I have engaged in a variety of projects that showcase my skills and interests. Notably, I created an undetectable hacking payload for Windows Defender and developed both directory and login brute force tools for websites. My commitment to meaningful applications of technology is reflected in projects like my climate change education app, which incorporates 11 interactive games using AI to foster awareness and engagement.<br><br>Additionally, I designed a medical adherence app equipped with advanced features such as instant assistance and nearby hospital locators, all leveraging AI to enhance user experience. I also built a comprehensive website for researchers, featuring tools like an AI chatbot, virtual assistant, text-to-image generator, and classic games to provide a balance between productivity and relaxation.<br><br>I recently participated in Gear Up Season 4, an internal selection hackathon for the Smart India Hackathon, where my team and I developed an innovative solution called Autoflow Well Cap. This experience not only honed my technical skills but also led to my nomination for participation in the Smart India Hackathon.<br><br>Fun Fact: When I'm not coding, you can find me exploring new music genres or playing strategy games—I'm always up for a challenge, whether in tech or on the gaming battlefield!<br><br>I am excited to continue exploring new ideas and collaborating on projects that merge technology with impactful solutions. Let’s connect and see how we can drive innovation together!
+
+I’m a **first-year BTech student** with a deep passion for technology, innovation, and building impactful solutions. My interests primarily lie in solving real-world problems using **Artificial Intelligence**, **Data Engineering**, and cutting-edge tech.
+
+---
+
+## 🔧 Key Areas of Expertise
+
+- **AI Development & Data Architecture**  
+- **Cybersecurity**  
+- **Web Development**  
+- **App Development**  
+- **Problem Solving & Algorithm Design**
+
+---
+
+## 💡 Notable Projects
+
+### 1. **Undetectable Hacking Payload for Windows Defender**  
+   🛠 Developed a payload that bypasses Windows Defender to demonstrate cybersecurity vulnerabilities (for educational purposes).
+
+### 2. **Brute Force Tools**  
+   🔐 Created a **directory brute force tool** and **login brute force tool** for websites to showcase the importance of web security.
+
+### 3. **Climate Change Education App**  
+   🌎 An interactive app featuring **11 AI-powered games** to raise awareness about climate change in a fun and engaging way.
+
+### 4. **Medical Adherence App**  
+   🏥 Designed an app to assist users with medical adherence, featuring **AI-based instant assistance**, **nearby hospital locators**, and **personalized reminders**.
+
+### 5. **Researcher Website**  
+   🌐 Built a platform for researchers, featuring an **AI chatbot**, **virtual assistant**, **text-to-image generator**, and a collection of **classic games** to balance productivity and relaxation.
+
+---
+
+## 🏆 Hackathon Achievements
+
+- **Gear Up Season 3** (Smart India Hackathon Internal Selection)  
+   🏅 My team and I developed **Autoflow Well Cap** for artesian wells, an innovative solution to a real-world problem, and earned a **nomination** for the Smart India Hackathon.
+
+---
+
+## 🔍 Current Focus
+
+I'm currently focused on expanding my knowledge in **AI**, **Data Engineering**, and **cloud technologies**. I'm always looking to work on projects that have a **real-world impact** and push the boundaries of what’s possible with technology.
+
+---
+
+## 🎮 Fun Fact
+
+When I'm not coding, you'll find me exploring new **music genres** or playing **strategy games**. I'm always up for a challenge, whether it's in tech or on the gaming battlefield! 🎶🎮
+
+---
+
+## 🤝 Let's Connect!
+
+I’m excited to collaborate on innovative projects that bridge **technology** and **impact**. Feel free to connect with me!
+
+- 💻 [LinkedIn](https://linkedin.com/in/-apoorv-)  
+- 📧 [Email](apoorv041@gmail.com)  
+- 🐦 [Twitter](#)  
+- 🌐 [Portfolio](#)
+
+---
+
+Thanks for visiting my GitHub! 🚀 Let’s build something amazing together.
+
+
+
+
 
 
 ## 🌐 Socials:
