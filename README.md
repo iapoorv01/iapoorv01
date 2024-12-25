@@ -43,8 +43,9 @@ I’m a **first-year BTech student** with a deep passion for technology, innovat
 
 ## 🏆 Hackathon Achievements
 
-- **Gear Up Season 3** (Smart India Hackathon Internal Selection)  
-   🏅 My team and I developed **Autoflow Well Cap** for artesian wells, an innovative solution to a real-world problem, and earned a **nomination** for the Smart India Hackathon.
+- **Smart India Hackathon 2024 Winner**  
+   🏅 My team and I developed **Autoflow Well Cap** for artesian wells, an innovative solution to a real-world problem, and successfully **clinched the trophy** as the winner of the Smart India Hackathon 2024.
+
 
 ---
 
