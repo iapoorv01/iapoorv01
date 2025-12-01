@@ -2,13 +2,20 @@
  
 # <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" /> Hey There,I'm Apoorv Gupta!
 
-👨‍💻 A passionate **Computer Science** student with a focus on **AI** and **Data Engineering** at **Lovely Professional University**.
+👨‍💻I build what others **imagine** and solve what **others skip..**
 
 ---
 
 # 💫 About Me:
 
-I’m a **first-year BTech student** with a deep passion for technology, innovation, and building impactful solutions. My interests primarily lie in solving real-world problems using **Artificial Intelligence**, **Data Engineering**, and cutting-edge tech.
+**👨‍💻 2nd Year B.Tech CSE – AI & Data Engineering Student | Winner of SIH 2024 | 2x Patents (+2 in Pipeline) | Founder – ThinkTech | Interned @ Honda | eSports Athlete**
+
+
+Founder of ThinkTech, driven by the motto: “We don’t just think, we think tech.”
+
+**3× Top 1🥇, 2× Top 2🥈, and 15× Top 50🏅 eSports athlete—always competing with the best.**
+
+If there’s a battle to fight—code or competitive—I’m in. Always ready to rise, represent, and serve India with pride.
 
 ---
 
@@ -41,14 +48,34 @@ I’m a **first-year BTech student** with a deep passion for technology, innovat
 
 ---
 
-## 🏆 Hackathon Achievements
+## 🏆 ACCOMPLISHMENTS
 
-- **Smart India Hackathon 2024 Winner**  
-   🏅 My team and I developed **Autoflow Well Cap** for artesian wells, an innovative solution to a real-world problem, and successfully **clinched the trophy** as the winner of the Smart India Hackathon 2024.
+- 🏆 Winner – Smart India Hackathon 2024 (PSID: 1570)
+- 🏆 Winner – ArtEvo Hackathon 2024 (Futurense)
+- 📚 Selected – AIU Anveshan 2024, North Zone Student Research Convention
+- 💡 Nominated – IDE Bootcamp (AICTE & MIC), 2nd Edition
+- 🔥 Top 500 out of 25,000+ teams – Built With India Hackathon 2024
+- 🎯 Selected – Internal Smart India Hackathon 2025
+- 🤖 Finalist – Google Cloud Gen AI Exchange Hackathon 2025\
+- 📰 Featured in Newspapers: Dainik Bhaskar, Punjab Kesari, etc.
 
 
 ---
+## 📊 GitHub Stats & Trophies
 
+
+
+![](https://github-readme-stats.vercel.app/api?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false) <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nMGVuZXBpMHRyMmFkcm5tcWt5aDdmb3dzdnpsd2tuMGJ4bXhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">  <br/>  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iapoorv01&theme=dark&hide_border=true&cache_seconds=86400" alt="iapoorv01's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iapoorv01&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Apoorv Gupta's GitHub Trophies" />
+
+![](https://github-contributor-stats.vercel.app/api?username=iapoorv01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 ## 🔍 Current Focus
 
 I'm currently focused on expanding my knowledge in **AI**, **Data Engineering**, and **cloud technologies**. I'm always looking to work on projects that have a **real-world impact** and push the boundaries of what’s possible with technology.
@@ -84,16 +111,13 @@ Thanks for visiting my GitHub! 🚀 Let’s build something amazing together.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=plastic&logo=poetry&logoColor=0B3D8D) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false) <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nMGVuZXBpMHRyMmFkcm5tcWt5aDdmb3dzdnpsd2tuMGJ4bXhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">  <br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=iapoorv01&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iapoorv01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iapoorv01&icon=0&color=4)](https://visitcount.itsvg.in)
