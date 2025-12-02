@@ -24,6 +24,21 @@ Founder of ThinkTech, driven by the motto: “We don’t just think, we think te
 If there’s a battle to fight—code or competitive—I’m in. Always ready to rise, represent, and serve India with pride.
 
 ---
+## 📊 GitHub Stats & Trophies
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false) <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nMGVuZXBpMHRyMmFkcm5tcWt5aDdmb3dzdnpsd2tuMGJ4bXhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">  <br/>  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iapoorv01&theme=dark&hide_border=true&cache_seconds=86400" alt="iapoorv01's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iapoorv01&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Apoorv Gupta's GitHub Trophies" />
+
+![](https://github-contributor-stats.vercel.app/api?username=iapoorv01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🔧 Key Areas of Expertise
 
@@ -66,20 +81,7 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 - 📰 Featured in Newspapers: Dainik Bhaskar, Punjab Kesari, etc.
 
 
----
-## 📊 GitHub Stats & Trophies
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false) <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nMGVuZXBpMHRyMmFkcm5tcWt5aDdmb3dzdnpsd2tuMGJ4bXhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">  <br/>  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iapoorv01&theme=dark&hide_border=true&cache_seconds=86400" alt="iapoorv01's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iapoorv01&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Apoorv Gupta's GitHub Trophies" />
-
-![](https://github-contributor-stats.vercel.app/api?username=iapoorv01&limit=5&theme=dark&combine_all_yearly_contributions=true)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iapoorv01&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## 🔍 Current Focus
