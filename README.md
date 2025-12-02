@@ -1,6 +1,12 @@
  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVuNmFyY3Q2YXdpMGNxMTNjdzlwOTVwaWUyOTJ0eDE3Y3l2c2lwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
  
-# <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" /> Hey There,I'm Apoorv Gupta!
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="70px" width="70px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF700&width=435&lines=Hi+there%2C+I'm+Apoorv+Gupta+)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iapoorv01&style=flat-square)
+![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
+![Languages](https://img.shields.io/badge/Code-C++-green?style=flat-square&logo=c%2B%2B)
+![Languages](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=security)
 
 👨‍💻I build what others **imagine** and solve what **others skip..**
 
@@ -21,30 +27,30 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 
 ## 🔧 Key Areas of Expertise
 
-- **AI Development & Data Architecture**  
+- **AI Development & Data Architecture**
+- **AI & Machine Learning Engineering**
 - **Cybersecurity**  
-- **Web Development**  
+- **Full-Stack Project Building**  
 - **App Development**  
-- **Problem Solving & Algorithm Design**
 
 ---
 
 ## 💡 Notable Projects
 
-### 1. **Undetectable Hacking Payload for Windows Defender**  
-   🛠 Developed a payload that bypasses Windows Defender to demonstrate cybersecurity vulnerabilities (for educational purposes).
+### 1. **KalaMitra- Where Tradition Meets Technology**  
+   🛠 Developed an AI-powered artisan marketplace built with Next.js + Supabase that connects local artisans with global buyers. 
 
-### 2. **Brute Force Tools**  
-   🔐 Created a **directory brute force tool** and **login brute force tool** for websites to showcase the importance of web security.
+### 2. **AutoFlowWellCap-FlowSmarter**  
+   🔐 Created an innovative solution designed to address the challenges associated with **artesian wells**, where water flows naturally due to underground pressure.
 
-### 3. **Climate Change Education App**  
-   🌎 An interactive app featuring **11 AI-powered games** to raise awareness about climate change in a fun and engaging way.
+### 3. **CIDMessageHunter**  
+   🌎 An advanced **steganography** tool that hides encrypted messages within images.
 
-### 4. **Medical Adherence App**  
-   🏥 Designed an app to assist users with medical adherence, featuring **AI-based instant assistance**, **nearby hospital locators**, and **personalized reminders**.
+### 4. **VoteXpress-Your Vote, Verified in a Snap**  
+   🏥  An innovative solution designed to streamline the voter verification process at polling booths using **Advanced Steganography Scanning & Decryption**.
 
-### 5. **Researcher Website**  
-   🌐 Built a platform for researchers, featuring an **AI chatbot**, **virtual assistant**, **text-to-image generator**, and a collection of **classic games** to balance productivity and relaxation.
+### 5. **Kolam AI-Digitizing heritage with AI & AR**  
+   🌐 Built a digital platform that uses **Artificial Intelligence (AI) and Augmented Reality (AR)** to recognize, create, and preserve Kolam (Rangoli) designs and let local artisans to earn through it.
 
 ---
 
@@ -78,7 +84,7 @@ If there’s a battle to fight—code or competitive—I’m in. Always ready to
 ---
 ## 🔍 Current Focus
 
-I'm currently focused on expanding my knowledge in **AI**, **Data Engineering**, and **cloud technologies**. I'm always looking to work on projects that have a **real-world impact** and push the boundaries of what’s possible with technology.
+Mastering **AI engineering** to represent my country on the **global stage**—through technology, innovation, and every skill I have.
 
 ---
 
@@ -99,7 +105,7 @@ I’m excited to collaborate on innovative projects that bridge **technology** a
 
 ---
 
-Thanks for visiting my GitHub! 🚀 Let’s build something amazing together.
+
 
 
 
@@ -118,6 +124,8 @@ Thanks for visiting my GitHub! 🚀 Let’s build something amazing together.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
+
+Thanks for visiting my GitHub! 🚀 Let’s build something amazing together.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iapoorv01&icon=0&color=4)](https://visitcount.itsvg.in)
