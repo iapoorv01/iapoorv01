@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 
-**👨‍💻 2nd Year B.Tech CSE – AI & Data Engineering Student | Winner of SIH 2024 | 2x Patents (+2 in Pipeline) | Founder – ThinkTech | Interned @ Honda | eSports Athlete**
+**👨‍💻 2nd Year B.Tech CSE – AI & Data Engineering Student | Winner of SIH 2024 | 3x Patents (+2 in Pipeline) | Founder – ThinkTech | Interned @ Honda | eSports Athlete**
 
 
 Founder of ThinkTech, driven by the motto: “We don’t just think, we think tech.”
